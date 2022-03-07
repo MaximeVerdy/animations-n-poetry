@@ -1,5 +1,5 @@
 ### site HTML/CSS/JS/GSAP
-#### présentant une pensée de poète
+#### présentant une pensée poétique
 Projet permettant de travailler sur les animations GSAP
 
 ![sreenshot](screenshot.gif)
