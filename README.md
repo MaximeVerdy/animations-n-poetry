@@ -2,4 +2,4 @@
 #### présentant une pensée poétique
 Projet permettant de travailler sur les animations GSAP
 
-![sreenshot](screenshot1.gif)
+![sreenshot](screenshot.gif)

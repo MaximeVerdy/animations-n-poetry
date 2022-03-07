@@ -3,7 +3,7 @@ body {
      color: black;
      font-family: 'Poppins';
      margin: 0;
-     padding: 14em 14em 14em 8em;
+     padding: 14em 14em 14em 6.7em;
 }
 
 img {
@@ -38,6 +38,7 @@ h1, h2, p {
 h1 {
      font-size: 2em;
      color: white;
+     padding-left: 0.2em;
 }
 
 p {
